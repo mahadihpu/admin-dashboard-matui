@@ -1,4 +1,4 @@
-import { Card, Grid, Typography } from '@mui/material';
+import { Grid, Typography } from '@mui/material';
 import { Box } from '@mui/system';
 import React from 'react';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';

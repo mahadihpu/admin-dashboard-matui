@@ -1,4 +1,4 @@
-import { Collapse, List, ListItem, ListItemIcon, ListItemText, Typography } from '@mui/material';
+import { List, ListItem, ListItemIcon, ListItemText, Typography } from '@mui/material';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import menuItems from '../../data';

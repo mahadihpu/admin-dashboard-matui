@@ -1,5 +1,5 @@
 import { SettingsTwoTone } from "@mui/icons-material";
-import { AppBar, Avatar, Badge, Button, Chip, Drawer, IconButton, Menu, Toolbar, Typography } from "@mui/material";
+import { Avatar, Badge, Button, Chip, Drawer, IconButton, Menu, Toolbar, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import React, { useState } from "react";
 import NotificationsIcon from '@mui/icons-material/Notifications';
