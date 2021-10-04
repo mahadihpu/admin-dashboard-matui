@@ -1,0 +1,20 @@
+.card-center{
+   display: flex !important;
+   justify-content: space-between;
+
+}
+.arrow-downward{
+   color: red
+}
+.arrow-upward{
+   color: green
+}
+.overview-card{
+   width: 80% !important;
+   border: 1px solid lightgrey;
+   padding: 15px;
+   border-radius: 10px;
+}
+.overview-cards{
+   margin: 20px 0;
+}

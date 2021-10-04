@@ -16,22 +16,22 @@ const Menuitems = [
     navlabel: true,
     subheader: "Dashboard",
     icon: <DashboardIcon />,
-    href: "dashboard",
+    href: "",
   },
   {
     title: "Home",
     icon: <HomeIcon />,
-    href: "/dashboards/dashboard1",
+    href: "",
   },
   {
     title: "Analytics",
     icon: <ShowChartIcon />,
-    href: "/dashboards/analytics",
+    href: "",
   },
   {
     title: "Sales",
     icon: <PieChartIcon />,
-    href: "/dashboards/sales",
+    href: "",
   },
   {
     navlabel: true,
@@ -42,23 +42,23 @@ const Menuitems = [
   {
     title: "Users",
     icon: <PersonIcon />,
-    href: "/chats",
+    href: "/users",
   },
   {
     title: "Products",
     icon: <StorefrontIcon />,
-    href: "/notes",
+    href: "/products",
   },
   {
     title: "Transaction",
     icon: <MonetizationOnIcon />,
-    href: "/email",
+    href: "/transaction",
   },
 
   {
     title: "Reports",
     icon: <AssessmentIcon />,
-    href: "/calendar",
+    href: "/reports",
   },
   {
     navlabel: true,
@@ -69,18 +69,18 @@ const Menuitems = [
   {
     title: "Mail",
     icon: <MailOutlineIcon />,
-    href: "/shop",
+    href: "/mail",
     collapse: true,
   },
   {
     title: "Feedback",
     icon: <DynamicFeedIcon />,
-    href: "/user-profile",
+    href: "/feedback",
   },
   {
     title: "Messages",
     icon: <ChatBubbleIcon />,
-    href: "/react-icons",
+    href: "/messages",
   },
   {
     navlabel: true,
@@ -91,17 +91,17 @@ const Menuitems = [
   {
     title: "Analytics",
     icon: <ShowChartIcon />,
-    href: "/form-layouts/form-layouts",
+    href: "/",
   },
   {
     title: "Sales",
     icon: <WorkOutlineIcon />,
-    href: "/form-layouts/form-custom",
+    href: "/",
   },
   {
     title: "Reports",
     icon: <ReportGmailerrorredIcon />,
-    href: "/form-elements",
+    href: "/",
     collapse: true,
   },
 ];
