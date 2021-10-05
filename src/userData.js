@@ -49,4 +49,55 @@ const userData = [
    },
 ];
 
+export const tableRows = [
+   {
+      id: 1, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 2, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 3, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 4, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 5, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 6, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 7, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+   {
+      id: 8, username: 'Jon Snow', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+      email: 'john.snow@email.com',
+      status: 'active',
+      transaction: '$120'
+   },
+];
+
 export default userData;

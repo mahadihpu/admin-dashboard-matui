@@ -17,3 +17,10 @@
 .widget-big{
    padding: 10px;
 }
+.account-details{
+   display: flex;
+   margin-top: 15px;
+}
+.account-details-icon{
+   margin-right: 5px;
+}

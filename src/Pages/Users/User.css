@@ -1,0 +1,23 @@
+.userinfo{
+   display: flex;
+}
+.table-avatar{
+   margin-top: 6px;
+   margin-right:10px;
+}
+.userlist-delete{
+   color: red;
+   cursor: pointer;
+   margin-top: 12px;
+   margin-left: 10px;
+}
+.link{
+   text-decoration: none;
+}
+.edituser-container{
+   padding:20px
+}
+.edit-header{
+   display: flex;
+   justify-content: space-between
+}

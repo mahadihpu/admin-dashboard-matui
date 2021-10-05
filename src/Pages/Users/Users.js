@@ -2,7 +2,7 @@ import { Grid } from '@mui/material';
 import React from 'react';
 import Sidebar from '../../components/Sidebar/Sidebar';
 import Topbar from '../../components/Topbar/Topbar';
-// import Userlist from './Userlist';
+import Userlist from './Userlist';
 
 const Users = () => {
    return (
@@ -13,7 +13,7 @@ const Users = () => {
                <Sidebar />
             </Grid>
             <Grid xs={10}>
-               {/* <Userlist /> */}
+               <Userlist />
             </Grid>
          </Grid>
       </>
