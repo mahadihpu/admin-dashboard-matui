@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard-matui/static/css/main.431f320b.chunk.css",
+    "main.js": "/admin-dashboard-matui/static/js/main.07778a7e.chunk.js",
+    "main.js.map": "/admin-dashboard-matui/static/js/main.07778a7e.chunk.js.map",
+    "runtime-main.js": "/admin-dashboard-matui/static/js/runtime-main.b538bb81.js",
+    "runtime-main.js.map": "/admin-dashboard-matui/static/js/runtime-main.b538bb81.js.map",
+    "static/js/2.90810942.chunk.js": "/admin-dashboard-matui/static/js/2.90810942.chunk.js",
+    "static/js/2.90810942.chunk.js.map": "/admin-dashboard-matui/static/js/2.90810942.chunk.js.map",
+    "index.html": "/admin-dashboard-matui/index.html",
+    "static/css/main.431f320b.chunk.css.map": "/admin-dashboard-matui/static/css/main.431f320b.chunk.css.map",
+    "static/js/2.90810942.chunk.js.LICENSE.txt": "/admin-dashboard-matui/static/js/2.90810942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b538bb81.js",
+    "static/js/2.90810942.chunk.js",
+    "static/css/main.431f320b.chunk.css",
+    "static/js/main.07778a7e.chunk.js"
+  ]
+}
